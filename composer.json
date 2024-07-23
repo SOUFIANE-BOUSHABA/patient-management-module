@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "fpdf/fpdf": "^1.86",
+        "firebase/php-jwt": "5.0"
+    }
+}
